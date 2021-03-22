@@ -2,13 +2,13 @@ export default {
   cms_manual_init: true,
   backend: {
     name: 'github',
-    repo: 'jakeprins/nextwind',
+    repo: ' ipnuds/landing-nextwind ',
     branch: 'master',
   },
   media_folder: 'public/img',
   public_folder: 'img',
-  logo_url: 'https://demo.serverless.page/img/logo-cms.jpg',
-  site_url: 'https://demo.serverless.page',
+  logo_url: 'https://localhost:3000/img/logo-cms.jpg',
+  site_url: 'https://localhost:3000',
   collections: [
     {
       name: 'pages',
